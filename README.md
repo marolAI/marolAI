@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @marolAI
+- 👀 I’m interested in NLP, Computer Vision and AI in general.
+- 💞️ I’m looking to collaborate on AI projects
+- 📫 You can reach me at [marolahyrabe@gmail.com](mailto:marolahyrabe@gmail.com)
