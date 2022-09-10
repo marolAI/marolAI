@@ -1,8 +1,8 @@
 <p align="center">
- <img class="profile" src="img/avatar.jpeg" alt="my photo">
+ <img style="border-radius: 50%;" src="img/avatar.jpeg" alt="my photo" width=200px>
 </p>
 
-<h2 align="center"> Hello, I am Marolahy <span class="wave"><img src="img/waving-hand.png"/></span><br>
+<h2 align="center"> Hello, I am Marolahy <span style="height: 30px; width: 30px; display: inline-block;"><img src="img/waving-hand.png"/></span><br>
 </h2>
 
 I am a R&D Scientist. I love coding and learning new things. I am interested in NLP, Computer Vision, and AI in general. I am open for a new position (PhD or Data Science) and/or new project.
@@ -82,55 +82,3 @@ Contact: <br> arabetokotany[at]aimsammi[dot]org
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=marolAI&left_color=green&right_color=red)
 
 </div>
-
-
-<style>
-    .profile{
-        border-radius: 50%;
-        width: 200px
-    }
-    .wave {
-        height: 30px;
-        width: 30px;
-        animation-name: wave-animation;
-        animation-duration: 2.5s;
-        animation-iteration-count: infinite;
-        /* transform-origin: 70% 70%; */
-        display: inline-block;
-    }
-
-    @keyframes wave-animation {
-        0% {
-            transform: rotate(0.0deg)
-        }
-
-        10% {
-            transform: rotate(14.0deg)
-        }
-
-        20% {
-            transform: rotate(-8.0deg)
-        }
-
-        30% {
-            transform: rotate(14.0deg)
-        }
-
-        40% {
-            transform: rotate(-4.0deg)
-        }
-
-        50% {
-            transform: rotate(10.0deg)
-        }
-
-        60% {
-            transform: rotate(0.0deg)
-        }
-
-        100% {
-            transform: rotate(0.0deg)
-        }
-    }
-
-</style>
