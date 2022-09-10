@@ -26,7 +26,6 @@ Contact: <br> arabetokotany[at]aimsammi[dot]org
 ## <img src="img/working.png" width=30px/> I'm currently working on
 - my portfolio website
 - update my old projects
-- 
 
 ## 🌱 I'm currently learning
 
