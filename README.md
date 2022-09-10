@@ -1,8 +1,8 @@
 <p align="center">
- <img style="border-radius: 50%;" src="img/avatar.jpeg" alt="my photo" width=200px>
+<img style="border-radius: 50%;" src="img/avatar.jpeg" alt="my photo" width=200px>
 </p>
 
-<h2 align="center"> Hello, I am Marolahy <span style="height: 30px; width: 30px; display: inline-block;"><img src="img/waving-hand.png"/></span><br>
+<h2 align="center"> Hello, I am Marolahy <span><img src="img/waving-hand.png" height=30px; width=30px/></span><br>
 </h2>
 
 I am a R&D Scientist. I love coding and learning new things. I am interested in NLP, Computer Vision, and AI in general. I am open for a new position (PhD or Data Science) and/or new project.
