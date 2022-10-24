@@ -2,10 +2,11 @@
 <img style="border-radius: 50%;" src="img/avatar.jpeg" alt="my photo" width=200px>
 </p> -->
 
-<h2> Hello, I am Marolahy <span><img src="img/waving-hand.png" height=30px; width=30px/></span><br>
-</h2>
+<h2> Hello there <span><img src="img/waving-hand.png" height=20px; width=20px/></span>
+</h2><br>
 
-I am a R&D Scientist. I love coding and learning new things. I am interested in NLP, Computer Vision, and AI in general. I am open for a new position (PhD or Data Science) and/or new project.
+<p><span style="float: left;
+    font-size: 140px; line-height: 0.8; font-weight: italic; margin-right: 4px;">I</span> am Marolahy,<br> am a R&D Scientist, <br> love coding and learning new things, <br> am interested in NLP, Computer Vision, and AI in general, <br> am open for a new position (PhD or Data Science) and/or new project.</p>
 
 <div align="center">
 <h3>Please connect with me at:</h3><br>
@@ -28,8 +29,6 @@ Contact: <br> arabetokotany[at]aimsammi[dot]org -->
 - my portfolio website
 - update my old projects
 
-<br>
-
 ## 🌱 I'm currently learning
 
 - Pyspark
@@ -38,8 +37,6 @@ Contact: <br> arabetokotany[at]aimsammi[dot]org -->
 - Spanish <a href="https://www.duolingo.com/profile/Maro8132">
         <img src="img/duolingo.png" width=30px>
     </a>
-
-<br>
 
 ## <img src="img/tools.png" width=30px/> Tools
 
@@ -77,8 +74,6 @@ Contact: <br> arabetokotany[at]aimsammi[dot]org -->
 
 ![](https://img.shields.io/badge/OS-Linux-FCC624?style=flat&logo=linux)
 ![](https://img.shields.io/badge/OS-Windows-0078D6?style=flat&logo=windows)
-
-<br>
 
 ## <img src="img/contact.png" width=30px/> Contact
 
