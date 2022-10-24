@@ -24,7 +24,6 @@ Contact: <br> arabetokotany[at]aimsammi[dot]org -->
 <br>
 
 ## <img src="img/working.png" width=30px/> I'm currently working on
-<hr>
 
 - my portfolio website
 - update my old projects
@@ -32,7 +31,6 @@ Contact: <br> arabetokotany[at]aimsammi[dot]org -->
 <br>
 
 ## 🌱 I'm currently learning
-<hr>
 
 - Pyspark
 - Deploy Machine Learning Models to Production
@@ -44,7 +42,6 @@ Contact: <br> arabetokotany[at]aimsammi[dot]org -->
 <br>
 
 ## <img src="img/tools.png" width=30px/> Tools
-<hr>
 
 ![](https://img.shields.io/badge/Language-python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
@@ -84,7 +81,6 @@ Contact: <br> arabetokotany[at]aimsammi[dot]org -->
 <br>
 
 ## <img src="img/contact.png" width=30px/> Contact
-<hr>
 
 <img src="img/email.png" width=15px> arabetokotany[at]aimsammi[dot]org
 
