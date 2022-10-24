@@ -1,33 +1,38 @@
-<p align="center">
+<!-- <p align="center">
 <img style="border-radius: 50%;" src="img/avatar.jpeg" alt="my photo" width=200px>
-</p>
+</p> -->
 
-<h2 align="center"> Hello, I am Marolahy <span><img src="img/waving-hand.png" height=30px; width=30px/></span><br>
+<h2> Hello, I am Marolahy <span><img src="img/waving-hand.png" height=30px; width=30px/></span><br>
 </h2>
 
 I am a R&D Scientist. I love coding and learning new things. I am interested in NLP, Computer Vision, and AI in general. I am open for a new position (PhD or Data Science) and/or new project.
 
 <div align="center">
-Follow me on:<br>
+<h3>Please connect with me at:</h3><br>
 <a href="https://www.linkedin.com/in/andriamarolahy-rabetokotany-a84986143/"><img src="img/linkedin.png" width=30px></a> &nbsp;
 <a href="https://github.com/marolAI"><img src="img/github.png" width=40px></a>&nbsp;
 <a href="https://twitter.com/Massa_Be"><img src="img/twitter.png" width=40px></a>&nbsp;
 <a href="https://stackoverflow.com/users/9560986/r-marolahy"><img src="img/stackoverflow.png" width=40px></a>
 <a href="https://www.duolingo.com/profile/Maro8132">
         <img src="img/duolingo.png" width=60px></a>
-<br>
-Visit my page: <br>
+
+<!-- Visit my page: <br>
 <a href="https://marolai.github.io/">https://marolai.github.io/</a>
 <br>
-Contact: <br> arabetokotany[at]aimsammi[dot]org
+Contact: <br> arabetokotany[at]aimsammi[dot]org -->
 </div>
-
+<br>
 
 ## <img src="img/working.png" width=30px/> I'm currently working on
+<hr>
+
 - my portfolio website
 - update my old projects
 
+<br>
+
 ## 🌱 I'm currently learning
+<hr>
 
 - Pyspark
 - Deploy Machine Learning Models to Production
@@ -36,7 +41,11 @@ Contact: <br> arabetokotany[at]aimsammi[dot]org
         <img src="img/duolingo.png" width=30px>
     </a>
 
+<br>
+
 ## <img src="img/tools.png" width=30px/> Tools
+<hr>
+
 ![](https://img.shields.io/badge/Language-python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
 ![](https://img.shields.io/badge/Code-numpy-%23013243.svg?style=flat&logo=numpy)
@@ -63,8 +72,8 @@ Contact: <br> arabetokotany[at]aimsammi[dot]org
 
 ![](https://img.shields.io/badge/database-MySQL-00000F?style=flat&logo=mysql)
 ![](https://img.shields.io/badge/database-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
-![](https://img.shields.io/badge/database-SQLite-informational?style=flat&logo=SQLite&color=003B57)
-![](https://img.shields.io/badge/database-MongoDB-%234ea94b.svg?style=flat&logo=mongodb)
+<!-- ![](https://img.shields.io/badge/database-SQLite-informational?style=flat&logo=SQLite&color=003B57)
+![](https://img.shields.io/badge/database-MongoDB-%234ea94b.svg?style=flat&logo=mongodb) -->
 
 ![](https://img.shields.io/badge/API-Insomnia-black?style=flat&logo=insomnia)
 ![](https://img.shields.io/badge/API-Postman-FF6C37?style=flat&logo=postman)
@@ -72,6 +81,15 @@ Contact: <br> arabetokotany[at]aimsammi[dot]org
 ![](https://img.shields.io/badge/OS-Linux-FCC624?style=flat&logo=linux)
 ![](https://img.shields.io/badge/OS-Windows-0078D6?style=flat&logo=windows)
 
+<br>
+
+## <img src="img/contact.png" width=30px/> Contact
+<hr>
+
+<img src="img/email.png" width=15px> arabetokotany[at]aimsammi[dot]org
+
+
+<br>
 
 <div align="center">
     <img src="img/chat-bubbles.png" width=100>
