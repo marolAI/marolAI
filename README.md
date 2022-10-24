@@ -2,7 +2,7 @@
 </h2><br>
 
 <div display:inline-block;>
-    <img src="img/intro.png"/>
+    <img src="img/intro1.png"/>
 </div>
 <!-- <p><span style="
   float: left;
