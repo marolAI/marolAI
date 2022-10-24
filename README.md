@@ -1,25 +1,16 @@
 <h2> Hello there <span><img src="img/waving-hand.png" height=20px; width=20px/></span>
 </h2><br>
 
-<div style="float:left;margin:0 10px 10px 0" markdown="0">
-    <img src="img/i.png"/>
+<div display:inline-block;>
+    <img src="img/intro.png"/>
 </div>
- am Marolahy,<br> am a R&D Scientist, <br> love coding and learning new things, <br> am interested in NLP, Computer Vision, and AI in general, <br> am open for a new position (PhD or Data Science) and/or new project.</p>
-<br>
-<div align="center">
-<h3>Please connect with me at:</h3><br>
-<a href="https://www.linkedin.com/in/andriamarolahy-rabetokotany-a84986143/"><img src="img/linkedin.png" width=30px></a> &nbsp;
-<a href="https://github.com/marolAI"><img src="img/github.png" width=40px></a>&nbsp;
-<a href="https://twitter.com/Massa_Be"><img src="img/twitter.png" width=40px></a>&nbsp;
-<a href="https://stackoverflow.com/users/9560986/r-marolahy"><img src="img/stackoverflow.png" width=40px></a>
-<a href="https://www.duolingo.com/profile/Maro8132">
-        <img src="img/duolingo.png" width=60px></a>
-
-<!-- Visit my page: <br>
-
-<br>
-Contact: <br> arabetokotany[at]aimsammi[dot]org -->
-</div>
+<!-- <p><span style="
+  float: left;
+  font-family: Georgia;
+  font-size: 150px;
+  line-height: 0.8;
+  margin-right: 9px;">I</span>
+ am Marolahy,<br> am a R&D Scientist, <br> love coding and learning new things, <br> am interested in NLP, Computer Vision, and AI in general, <br> am open for a new position (PhD or Data Science) and/or new project.</p> -->
 
 <br>
 
@@ -85,13 +76,26 @@ Contact: <br> arabetokotany[at]aimsammi[dot]org -->
 
 <br>
 
-## <img src="img/email.png" width=30px/> Contact:
-arabetokotany[at]aimsammi[dot]org
 
+## <img src="img/connection.png" width=30px/>Connect with me :
+<div >
+<a href="https://www.linkedin.com/in/andriamarolahy-rabetokotany-a84986143/"><img src="img/linkedin.png" width=30px></a> &nbsp;
+<a href="https://github.com/marolAI"><img src="img/github.png" width=40px></a>&nbsp;
+<a href="https://twitter.com/Massa_Be"><img src="img/twitter.png" width=40px></a>&nbsp;
+<a href="https://stackoverflow.com/users/9560986/r-marolahy"><img src="img/stackoverflow.png" width=40px></a>
+<a href="https://www.duolingo.com/profile/Maro8132">
+        <img src="img/duolingo.png" width=60px></a>
+</div>
 
 <br>
 
-<div align="center">
+
+## <img src="img/email.png" width=30px/> Contact:
+arabetokotany[at]aimsammi[dot]org
+
+<br>
+
+<div>
     <img src="img/chat-bubbles.png" width=100>
     <h2>Thank you for your visit!</h2>
 
