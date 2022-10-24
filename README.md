@@ -1,13 +1,11 @@
-<!-- <p align="center">
-<img style="border-radius: 50%;" src="img/avatar.jpeg" alt="my photo" width=200px>
-</p> -->
-
 <h2> Hello there <span><img src="img/waving-hand.png" height=20px; width=20px/></span>
 </h2><br>
 
-<p><span style="float: left;
-    font-size: 140px; line-height: 0.8; font-weight: italic; margin-right: 4px;">I</span> am Marolahy,<br> am a R&D Scientist, <br> love coding and learning new things, <br> am interested in NLP, Computer Vision, and AI in general, <br> am open for a new position (PhD or Data Science) and/or new project.</p>
-
+<div style="float:left;margin:0 10px 10px 0" markdown="0">
+    <img src="img/i.png"/>
+</div>
+ am Marolahy,<br> am a R&D Scientist, <br> love coding and learning new things, <br> am interested in NLP, Computer Vision, and AI in general, <br> am open for a new position (PhD or Data Science) and/or new project.</p>
+<br>
 <div align="center">
 <h3>Please connect with me at:</h3><br>
 <a href="https://www.linkedin.com/in/andriamarolahy-rabetokotany-a84986143/"><img src="img/linkedin.png" width=30px></a> &nbsp;
@@ -18,16 +16,19 @@
         <img src="img/duolingo.png" width=60px></a>
 
 <!-- Visit my page: <br>
-<a href="https://marolai.github.io/">https://marolai.github.io/</a>
+
 <br>
 Contact: <br> arabetokotany[at]aimsammi[dot]org -->
 </div>
+
 <br>
 
 ## <img src="img/working.png" width=30px/> I'm currently working on
 
 - my portfolio website
 - update my old projects
+
+<br>
 
 ## 🌱 I'm currently learning
 
@@ -37,6 +38,8 @@ Contact: <br> arabetokotany[at]aimsammi[dot]org -->
 - Spanish <a href="https://www.duolingo.com/profile/Maro8132">
         <img src="img/duolingo.png" width=30px>
     </a>
+
+<br>
 
 ## <img src="img/tools.png" width=30px/> Tools
 
@@ -75,9 +78,15 @@ Contact: <br> arabetokotany[at]aimsammi[dot]org -->
 ![](https://img.shields.io/badge/OS-Linux-FCC624?style=flat&logo=linux)
 ![](https://img.shields.io/badge/OS-Windows-0078D6?style=flat&logo=windows)
 
-## <img src="img/contact.png" width=30px/> Contact
+<br>
 
-<img src="img/email.png" width=15px> arabetokotany[at]aimsammi[dot]org
+## <img src="img/navigateur.png" width=30px/> Portfolio: 
+<a href="https://marolai.github.io/">https://marolai.github.io/</a>
+
+<br>
+
+## <img src="img/email.png" width=30px/> Contact:
+arabetokotany[at]aimsammi[dot]org
 
 
 <br>
