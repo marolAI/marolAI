@@ -1,27 +1,18 @@
-<!-- <div display:inline-block;>
-    <img src="img/intro1.png"/>
-</div> -->
-<svg viewBox="0 0 0 0" xmlns="http://www.w3.org/2000/svg">
-    <style>
-        span {
-            float: left;
-            font-family: Georgia;
-            font-size: 150px;
-            line-height: 0.8;
-            margin-right: 9px;
-        }
-    </style>
+<div align="center">
 
-<!-- <h2> Hello there <span><img src="img/waving-hand.png" height=20px; width=20px/></span>
-</h2><br> -->
-
-<foreignObject x="20" y="20" width="160" height="160">
-        <span>I</span>
-
-am Marolahy,<br> am a R&D Scientist, <br> love coding and learning new things, <br> am interested in NLP, Computer Vision, and AI in general, <br> am open for a new position (PhD or Data Science) and/or new project.
- </foreignObject>
-</svg>
+<a href="https://www.linkedin.com/in/andriamarolahy-rabetokotany-a84986143/"><img src="img/linkedin.png" width=30px></a> &nbsp;
+<a href="https://github.com/marolAI"><img src="img/github.png" width=50px></a>&nbsp;
+<a href="https://twitter.com/Massa_Be"><img src="img/twitter.png" width=40px></a>&nbsp;
+<a href="https://stackoverflow.com/users/9560986/r-marolahy"><img src="img/stackoverflow.png" width=40px></a>
+<a href="https://www.duolingo.com/profile/Maro8132">
+        <img src="img/duolingo.png" width=60px></a>
 <br>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=marolAI&left_color=green&right_color=red)
+
+</div>
+
+<hr>
 
 ## <img src="img/working.png" width=30px/> I'm currently working on
 
@@ -80,35 +71,7 @@ am Marolahy,<br> am a R&D Scientist, <br> love coding and learning new things, <
 
 <br>
 
-## <img src="img/navigateur.png" width=30px/> Portfolio: 
-<a href="https://marolai.github.io/">https://marolai.github.io/</a>
+Contact: arabetokotany[at]aimsammi[dot]org
 
 <br>
 
-
-## <img src="img/connection.png" width=30px/>Connect with me :
-<div >
-<a href="https://www.linkedin.com/in/andriamarolahy-rabetokotany-a84986143/"><img src="img/linkedin.png" width=30px></a> &nbsp;
-<a href="https://github.com/marolAI"><img src="img/github.png" width=40px></a>&nbsp;
-<a href="https://twitter.com/Massa_Be"><img src="img/twitter.png" width=40px></a>&nbsp;
-<a href="https://stackoverflow.com/users/9560986/r-marolahy"><img src="img/stackoverflow.png" width=40px></a>
-<a href="https://www.duolingo.com/profile/Maro8132">
-        <img src="img/duolingo.png" width=60px></a>
-</div>
-
-<br>
-
-
-## <img src="img/email.png" width=30px/> Contact:
-arabetokotany[at]aimsammi[dot]org
-
-<br>
-
-<div>
-    <img src="img/chat-bubbles.png" width=100>
-    <h2>Thank you for your visit!</h2>
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=marolAI&left_color=green&right_color=red)
-
-</div>
