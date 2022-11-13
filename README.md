@@ -1,17 +1,26 @@
-<h2> Hello there <span><img src="img/waving-hand.png" height=20px; width=20px/></span>
-</h2><br>
-
-<div display:inline-block;>
+<!-- <div display:inline-block;>
     <img src="img/intro1.png"/>
-</div>
-<!-- <p><span style="
-  float: left;
-  font-family: Georgia;
-  font-size: 150px;
-  line-height: 0.8;
-  margin-right: 9px;">I</span>
- am Marolahy,<br> am a R&D Scientist, <br> love coding and learning new things, <br> am interested in NLP, Computer Vision, and AI in general, <br> am open for a new position (PhD or Data Science) and/or new project.</p> -->
+</div> -->
+<svg viewBox="0 0 0 0" xmlns="http://www.w3.org/2000/svg">
+    <style>
+        span {
+            float: left;
+            font-family: Georgia;
+            font-size: 150px;
+            line-height: 0.8;
+            margin-right: 9px;
+        }
+    </style>
 
+<!-- <h2> Hello there <span><img src="img/waving-hand.png" height=20px; width=20px/></span>
+</h2><br> -->
+
+<foreignObject x="20" y="20" width="160" height="160">
+        <span>I</span>
+
+am Marolahy,<br> am a R&D Scientist, <br> love coding and learning new things, <br> am interested in NLP, Computer Vision, and AI in general, <br> am open for a new position (PhD or Data Science) and/or new project.
+ </foreignObject>
+</svg>
 <br>
 
 ## <img src="img/working.png" width=30px/> I'm currently working on
