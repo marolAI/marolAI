@@ -26,7 +26,7 @@
 - Pyspark
 - Deploy Machine Learning Models to Production
 - The Azure Data Lakehouse Toolkit
-- Spanish from <a href="https://www.duolingo.com/profile/Maro8132">
+- Spanish on <a href="https://www.duolingo.com/profile/Maro8132">
         <img src="img/duolingo.png" width=30px>
     </a>
 
