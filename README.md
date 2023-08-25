@@ -8,16 +8,11 @@
 
 ## About Me
 
-I'm a passionate programmer and machine learning enthusiast, always seeking to learn and create. Currently, I'm diving deep into the world of data engineering and deployment, while also exploring the beauty of the Spanish language.
+I'm a passionate programmer and machine learning enthusiast, always seeking to learn and create. Currently, I'm diving deep into the world of machine learning and deployment, while also exploring the beauty of the Spanish language.
 
 ### Contact
 
 📧 marolahyrabe[at]gmail[dot]com
-
-## Current Endeavors
-
-- Updating my [portfolio website](https://marolai.github.io/)
-- Updating my old projects to reflect my growth and skills
 
 ## Learning Journey
 
@@ -25,7 +20,7 @@ I'm currently expanding my knowledge in:
 
 - Building AI products
 - Deploying Machine Learning Models to Production
-- [Spanish](https://www.duolingo.com/profile/Maro8132) on Duolingo
+- Spanish on [Duolingo](https://www.duolingo.com/profile/Maro8132)
 
 
 ## Connect with Me
