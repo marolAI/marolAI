@@ -8,7 +8,7 @@
 
 ## About Me
 
-I'm a passionate programmer and machine learning enthusiast, always seeking to learn and create. Currently, I'm diving deep into the world of machine learning and deployment, while also exploring the beauty of the Spanish language.
+I'm a passionate programmer and machine learning practitioner, always seeking to learn and create. Currently, I'm diving deep into the world of machine learning and deployment, while also exploring the beauty of the Spanish language.
 
 ### Contact
 
