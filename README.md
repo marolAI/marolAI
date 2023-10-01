@@ -26,7 +26,6 @@ I'm currently expanding my knowledge in:
 ## Connect with Me
 
 - LinkedIn: [Andriamarolahy Rabetokotany](https://www.linkedin.com/in/andriamarolahy-rabetokotany-a84986143/)
-- GitHub: [marolAI](https://github.com/marolAI)
 - Twitter: [@Massa_Be](https://twitter.com/Massa_Be)
 
 ---
