@@ -18,7 +18,7 @@ I'm a passionate programmer and machine learning enthusiast, always seeking to l
 
 I'm currently expanding my knowledge in:
 
-- Building AI products
+- Building AI and LLM products. [Explore](https://github.com/marolAI?tab=repositories)
 - Deploying Machine Learning Models to Production
 - Spanish on [Duolingo](https://www.duolingo.com/profile/Maro8132)
 
