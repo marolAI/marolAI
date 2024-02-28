@@ -23,10 +23,12 @@ I'm currently expanding my knowledge in:
 - Spanish on [Duolingo](https://www.duolingo.com/profile/Maro8132)
 
 
-## Connect with Me
+## I am on:
 
 - LinkedIn: [Andriamarolahy Rabetokotany](https://www.linkedin.com/in/andriamarolahy-rabetokotany-a84986143/)
 - Twitter: [@Massa_Be](https://twitter.com/Massa_Be)
+- Duolingo: [Maro8132](https://www.duolingo.com/profile/Maro8132)
+- Stackoverflow: [R. Marolahy](https://stackoverflow.com/users/9560986/r-marolahy)
 
 ---
 
